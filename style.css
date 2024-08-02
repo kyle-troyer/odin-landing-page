@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+body{
+  font-family: Roboto;
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+}
+
+.header{
+  background-color: #1F2937;
+  color: white;
+  padding: 0px 100px 0px 100px;
+}
+
+.hero{
+ background-color: #1F2937;
+ color: white;
+ flex: 1;
+}
+
+.random-bar{
+  flex: 1;
+
+}
+
+.quote-bar{
+  background-color: #E5E7EB;
+  flex: 1;
+}
+
+.cta-bar{
+  flex: 1;
+}
+
+.footer{
+  background-color: #1F2937;
+  padding: 15px 100px 15px 100px;
+  color: white;
+  text-align: center;
+  flex: 1;
+}
+
